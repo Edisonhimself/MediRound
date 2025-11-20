@@ -23,7 +23,7 @@
     <br>
     <div align="center">
     <a href="https://arxiv.org/abs/2511.12110"><img src='https://img.shields.io/badge/arXiv-MediRound-red' alt='Paper PDF'></a>
-    <a href="https://youtu.be/iRD_cvi-I88"><img src='https://img.shields.io/badge/YouTube-MediRound-lightgrey' alt='Demo Video'></a>
+    <a href="https://youtu.be/oetgnqgce-g"><img src='https://img.shields.io/badge/YouTube-MediRound-lightgrey' alt='Demo Video'></a>
     </div>
   </p>
 </p>
@@ -42,9 +42,9 @@
 
 ## :camera: Video Demo Presentation
 
-You can watch the MediRound demo video to better understand its mechanism and workflow. You can either click the play button below or use the link [MediRound Demo Presentation](https://youtu.be/iRD_cvi-I88).
+You can watch the MediRound demo video to better understand its mechanism and workflow. You can either click the play button below or use the link [MediRound Demo Presentation](https://youtu.be/oetgnqgce-g).
 
-[![Video demo of MediRound](images/video.png)](https://youtu.be/iRD_cvi-I88)
+[![Video demo of MediRound](images/video.png)](https://youtu.be/oetgnqgce-g)
 
 
 
