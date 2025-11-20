@@ -23,7 +23,7 @@
     <br>
     <div align="center">
     <a href="https://arxiv.org/abs/2511.12110"><img src='https://img.shields.io/badge/arXiv-MediRound-red' alt='Paper PDF'></a>
-    <a href="https://youtu.be/iRD_cvi-I88"><img src='https://img.shields.io/badge/YouTube-MediRound-orange' alt='Demo Video'></a>
+    <a href="https://youtu.be/iRD_cvi-I88"><img src='https://img.shields.io/badge/YouTube-MediRound-lightgrey' alt='Demo Video'></a>
     </div>
   </p>
 </p>
