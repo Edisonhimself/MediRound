@@ -29,6 +29,15 @@
   
 ![teaser_img](images/teaser.png)
 
+## :mega: News
+- **2025.11.20**: We’ve uploaded our paper *MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images* to arXiv and set up this repository! Welcome to **watch** 👀 this repository for the latest updates.
+
+## :memo: ToDo List
+- [ ] Release ***training codes***.
+- [ ] Release ***MR-MedSeg*** benchmark.
+- [ ] Release ***evaluating codes***.
+- [ ] Release ***demo codes*** and MediRound ***pre-trained weights***. 
+
 
 ## :camera: Video Demo 
 ![video demo of MediRound](https://github.com/Edisonhimself/MediRound/blob/main/mediround-demo.gif)
