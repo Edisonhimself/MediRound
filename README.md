@@ -39,8 +39,11 @@
 - [ ] Release ***demo codes*** and MediRound ***pre-trained weights***. 
 
 
-## :camera: Video Demo 
-![video demo of MediRound](https://github.com/Edisonhimself/MediRound/blob/main/mediround-demo.gif)
+## :camera: Video Demo Presentation
+
+You can watch the MediRound demo video to better understand its mechanism and workflow. You can either click the play button below or use the link [MediRound Demo Presentation](https://youtu.be/iRD_cvi-I88).
+
+[![Video demo of MediRound](images/video.png)](https://youtu.be/iRD_cvi-I88)
 
 
 
