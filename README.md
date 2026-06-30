@@ -1,7 +1,7 @@
 <p align="center">
 
   <h2 align="center">
-  MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images
+  MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images 
 
 
 </h2>
@@ -39,8 +39,9 @@
 
 ## :mega: News
 
-- **2026.06.24**: :rocket: We have officially released the ***training codes*** and ***evaluating codes***! Researchers and developers can now reproduce, evaluate, and further explore MediRound with a more complete open-source pipeline. :sparkles:
-- **2026.06.23**: :fire: We have open-sourced the ***MR-MedSeg*** Feel free to download it and build upon our work for multi-round medical image segmentation. :brain: :star2:
+- **2026.06.30**: :rocket: We have officially released the ***training codes*** and ***evaluating codes***! Researchers and developers can now reproduce, evaluate, and further explore MediRound with a more complete open-source pipeline. :sparkles:
+- **2026.06.29**: :fire: We have open-sourced the ***MR-MedSeg*** Feel free to download it and build upon our work for multi-round medical image segmentation. :brain: :star2:
+- **2026.06.20**: Our **MediRound** has been accepted by ***ECCV 2026*** :tada::tada:!
 - **2025.11.20**: We’ve uploaded our paper *MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images* to arXiv and set up this repository! Welcome to **watch** :eyes: this repository for the latest updates.
 
 
