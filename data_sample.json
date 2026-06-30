@@ -1,0 +1,95 @@
+{
+  "task": "segmentation",
+  "base": "[null]",
+  "conversations": [
+    {
+      "from": "human",
+      "value": "[IMAGE256:images/sample_0001.png] Segment the target region in the medical image."
+    },
+    {
+      "from": "gpt",
+      "value": "[MASK-DECODE:masks/sample_0001_round_00.png]."
+    },
+    {
+      "from": "human",
+      "value": "[MASK-ENCODE:masks/sample_0001_round_00.png][BOX-ENCODE:masks/sample_0001_round_00.png] Segment the region before the previous output.",
+      "ind": 0
+    },
+    {
+      "from": "gpt",
+      "value": "The segmentation output is [REF-DECODE:masks/sample_0001_round_00.png][MASK-DECODE:masks/sample_0001_round_01.png]."
+    },
+    {
+      "from": "human",
+      "value": "[MASK-ENCODE:masks/sample_0001_round_01.png][BOX-ENCODE:masks/sample_0001_round_01.png] Segment the region before the previous output.",
+      "ind": 1
+    },
+    {
+      "from": "gpt",
+      "value": "It is [REF-DECODE:masks/sample_0001_round_01.png][MASK-DECODE:masks/sample_0001_round_02.png]."
+    },
+    {
+      "from": "human",
+      "value": "[MASK-ENCODE:masks/sample_0001_round_02.png][BOX-ENCODE:masks/sample_0001_round_02.png] Segment the region before the previous output.",
+      "ind": 2
+    },
+    {
+      "from": "gpt",
+      "value": "Sure, [REF-DECODE:masks/sample_0001_round_02.png][MASK-DECODE:masks/sample_0001_round_03.png]."
+    },
+    {
+      "from": "human",
+      "value": "[MASK-ENCODE:masks/sample_0001_round_03.png][BOX-ENCODE:masks/sample_0001_round_03.png] Segment the region before the previous output.",
+      "ind": 3
+    },
+    {
+      "from": "gpt",
+      "value": "The segment is [REF-DECODE:masks/sample_0001_round_03.png][MASK-DECODE:masks/sample_0001_round_04.png]."
+    },
+    {
+      "from": "human",
+      "value": "[MASK-ENCODE:masks/sample_0001_round_04.png][BOX-ENCODE:masks/sample_0001_round_04.png] Segment the region before the previous output.",
+      "ind": 4
+    },
+    {
+      "from": "gpt",
+      "value": "The segmentation output is [REF-DECODE:masks/sample_0001_round_04.png][MASK-DECODE:masks/sample_0001_round_05.png]."
+    },
+    {
+      "from": "human",
+      "value": "[MASK-ENCODE:masks/sample_0001_round_05.png][BOX-ENCODE:masks/sample_0001_round_05.png] Segment the region before the previous output.",
+      "ind": 5
+    },
+    {
+      "from": "gpt",
+      "value": "This part is segmented: [REF-DECODE:masks/sample_0001_round_05.png][MASK-DECODE:masks/sample_0001_round_06.png]."
+    },
+    {
+      "from": "human",
+      "value": "[MASK-ENCODE:masks/sample_0001_round_06.png][BOX-ENCODE:masks/sample_0001_round_06.png] Segment the region before the previous output.",
+      "ind": 6
+    },
+    {
+      "from": "gpt",
+      "value": "[REF-DECODE:masks/sample_0001_round_06.png][MASK-DECODE:masks/sample_0001_round_07.png]."
+    },
+    {
+      "from": "human",
+      "value": "[MASK-ENCODE:masks/sample_0001_round_07.png][BOX-ENCODE:masks/sample_0001_round_07.png] Segment the region before the previous output.",
+      "ind": 7
+    },
+    {
+      "from": "gpt",
+      "value": "It is [REF-DECODE:masks/sample_0001_round_07.png][MASK-DECODE:masks/sample_0001_round_08.png]."
+    },
+    {
+      "from": "human",
+      "value": "[MASK-ENCODE:masks/sample_0001_round_08.png][BOX-ENCODE:masks/sample_0001_round_08.png] Segment the region before the previous output.",
+      "ind": 8
+    },
+    {
+      "from": "gpt",
+      "value": "It is [REF-DECODE:masks/sample_0001_round_08.png][MASK-DECODE:masks/sample_0001_round_09.png]."
+    }
+  ]
+}
