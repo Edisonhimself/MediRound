@@ -316,7 +316,7 @@ If you find our paper is helpful for your research, please consider citing:
 ```BibTeX
 @article{tong2025mediround,
   title={MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images},
-  author={Tong, Qinyue and Lu, Ziqian and Liu, Jun and Zuo, Rui and Lu, Zheming},
+  author={Tong, Qinyue and Lu, Ziqian and Liu, Jun and Zuo, Rui and Lu, Zheming and Jin, Yueming},
   journal={arXiv preprint arXiv:2511.12110},
   year={2025}
 }
