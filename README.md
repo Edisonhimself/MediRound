@@ -27,7 +27,7 @@
     <div align="center">
       <a href="https://arxiv.org/abs/2511.12110"><img src='https://img.shields.io/badge/arXiv-MediRound-red' alt='Paper PDF'></a>
       <a href="https://www.youtube.com/watch?v=JPb2UwbDOwg"><img src='https://img.shields.io/badge/Youtube-MediRound-red' alt='Video Demo'></a>
-      <a href='https://huggingface.co/Carryyy/MR-MedSeg/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-MR--MedSeg-yellow?color=yellow'></a>
+      <a href='https://huggingface.co/datasets/Carryyy/MR-MedSeg'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-MR--MedSeg-yellow?color=yellow'></a>
     </div>
   </p>
 </p>
@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 ## Download the Dataset
 
-The MR-MedSeg dataset is available on HuggingFace: [Carryyy/MR-MedSeg](https://huggingface.co/Carryyy/MR-MedSeg/tree/main). Download the dataset and extract it to a local directory before running training or evaluation. All image and mask paths inside the JSON files are resolved relative to `DATASET_DIR`, so `DATASET_DIR` should point to the dataset root.
+The MR-MedSeg dataset is available on HuggingFace: [Carryyy/MR-MedSeg](https://huggingface.co/datasets/Carryyy/MR-MedSeg). Download the dataset and extract it to a local directory before running training or evaluation. All image and mask paths inside the JSON files are resolved relative to `DATASET_DIR`, so `DATASET_DIR` should point to the dataset root.
 
 You also need to prepare the following model paths:
 
