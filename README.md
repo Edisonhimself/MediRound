@@ -26,8 +26,8 @@
     <br>
     <div align="center">
       <a href="https://arxiv.org/abs/2511.12110"><img src='https://img.shields.io/badge/arXiv-MediRound-red' alt='Paper PDF'></a>
-      <a href="https://youtu.be/oetgnqgce-g"><img src='https://www.youtube.com/watch?v=JPb2UwbDOwg' alt='Demo Video'></a>
-      <a href='https://huggingface.co/Carryyy/MR-MedSeg/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-MR-MedSeg-yellow?color=yellow'></a>
+      <a href="https://www.youtube.com/watch?v=JPb2UwbDOwg"><img src='https://img.shields.io/badge/Youtube-MediRound-red' alt='Video Demo'></a>
+      <a href='https://huggingface.co/Carryyy/MR-MedSeg/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-MR--MedSeg-yellow?color=yellow'></a>
     </div>
   </p>
 </p>
@@ -48,7 +48,7 @@
 
 You can watch the MediRound demo video to better understand its mechanism and workflow. You can either click the play button below or use the link [MediRound Demo Presentation](https://www.youtube.com/watch?v=JPb2UwbDOwg).
 
-[![Video demo of MediRound](images/demo.png)](https://www.youtube.com/watch?v=JPb2UwbDOwg)
+[![Video demo of MediRound](images/video.png)](https://www.youtube.com/watch?v=JPb2UwbDOwg)
 
 
 
